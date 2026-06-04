@@ -1,4 +1,4 @@
-# 1_probleming_solving
+# 1_probleming_solving_operators
 ## 📌 About This Repository
 This repository contains beginner-friendly notes and learning materials covering the fundamental concepts of Python programming.
 
